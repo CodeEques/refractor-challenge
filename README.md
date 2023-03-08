@@ -28,6 +28,6 @@ THEN I find a concise, descriptive title
 
 <!-- Mock Up 
 
-
 -->
 
+![image](https://user-images.githubusercontent.com/121414071/223851688-707bb2ee-3fc1-438b-ab8b-e66cdc74cc21.png)
