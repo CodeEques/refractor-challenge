@@ -26,6 +26,14 @@ THEN I find a concise, descriptive title
 
 -->
 
+<!-- Work Done 
+
+Changed website title
+Attempted to changed some HTML elements to more semantic elements
+Added alt attributes to images
+
+-->
+
 <!-- Mock Up 
 
 -->
