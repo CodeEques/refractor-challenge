@@ -31,6 +31,7 @@ THEN I find a concise, descriptive title
 Changed website title
 Attempted to changed some HTML elements to more semantic elements
 Added alt attributes to images
+Altered CSS code to reflect HTML element changes
 
 -->
 
